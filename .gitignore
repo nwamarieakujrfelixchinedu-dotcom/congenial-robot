@@ -1,0 +1,41 @@
+# Unity
+[Ll]
+[Tt]emp/
+[obj]
+[Bb]uild/
+[Ll]ibrary/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio / MonoDevelop
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Android
+*.apk
+*.aab
+
+# Crashlytics
+crashlytics-build.properties
+
+# Packages
+Packages/manifest.json.lock
+
+# Asset meta data should be ignored when the corresponding asset is also ignored
+*.meta
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
+# Assets/AssetStoreTools*
